@@ -31,8 +31,8 @@ float tempMotor = 0.0; // Temperature of the motor
 float accelX = 0.0, accelY = 0.0, accelZ = 0.0; // Acceleration values
 
 // WiFi credentials
-const char* ssid = "FAST AS FK BOY!"; 
-const char* password = "Fuck<;>['-";
+const char* ssid = "Your SSID"; 
+const char* password = "Your SSID Password";
 
 // Constants for thrust calculation
 #define CALIBRATION_FACTOR 30.00
