@@ -43,3 +43,9 @@ This project is a **Thrust Test Rig with IoT capabilities** that measures and mo
 ## License
 This project is open-source under the **MIT License**.
 
+## Diagram
+https://github.com/DrkVip/Thrust-Test-Rig-With-IOT/blob/main/Diagram%202.jpg?raw=true
+
+## Output
+
+
