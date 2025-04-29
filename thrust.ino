@@ -91,7 +91,7 @@ void setup() {
 void loop() {
   // Calculate RPM
   unsigned long currentTime = millis();
-  if (currentTime - lastRPMTime >= 1000) { // Update every second
+  if (currentTime - lastRPMTime >= 1000) { // Update every seconds
     rpmValue = (rpmPulses / 2.0) * 60.0;  // Calculate RPM (assuming 2 pulses per rotation)
     rpmPulses = 0;                        // Reset pulse count
     lastRPMTime = currentTime;
